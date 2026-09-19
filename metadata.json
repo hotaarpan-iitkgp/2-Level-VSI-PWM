@@ -1,0 +1,8 @@
+{
+  "name": "Two-Level VSI Simulator & PWM Analyzer",
+  "description": "Interactive two-level voltage source inverter (VSI) simulator with circuit animation, carrier-based PWM strategies, offset injection, and multi-channel oscilloscope waveforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
